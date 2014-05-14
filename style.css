@@ -1,0 +1,25 @@
+body {
+	font-family: sans-serif;
+	border-style: dashed;
+    border-width: 2.8px;
+    border-color: white;
+    background: black url(http://images.fineartamerica.com/images-medium-large/world-map-watercolor-michael-tompsett.jpg);
+    repeat: top, right;
+}
+h1 {
+	border-style: solid;
+    border-width: 10px;
+    border-color: #33AA88;
+	color: white;
+}
+h2 {
+	border-style: solid;
+    border-width: 10px;
+    border-color: #33AA88;
+	color: white;
+}
+p {
+	border-style: solid;
+    border-width: 10px;
+    border-color: #33AA88;
+}
